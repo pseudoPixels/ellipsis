@@ -1,4 +1,7 @@
 # ellipsis
 Ellipsis is a 2D android game developed in Unity game engine.
 
-<img src='Assets/screenshots/scr1.png'/>
+
+<p align="center">
+  <img src="Assets/screenshots/sc1.png" width="60%" title="Ellipsis">
+</p>
