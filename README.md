@@ -7,6 +7,13 @@ Ellipsis is a 2D android game developed in Unity game engine (https://unity3d.co
   <img src="Assets/screenshots/sc1.png" width="30%" align="right" title="Ellipsis">
 </div>
 
+<p align="center">
+  <img src="https://i.imgur.com/Yamn0gp.gif"  title="Ellipsis">
+</p>
+
+
+
+
              
 ## Installation
 Please make sure you have the following environment setups:
