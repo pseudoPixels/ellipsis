@@ -1,3 +1,7 @@
+<div width="110%">
+  <img src="Assets/screenshots/thumbnail.png" width="30%"  title="Ellipsis - Menu">
+</div>
+
 ## Ellipsis
 [![Sponsors on Open Collective](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](#sponsors)
 [![Sponsors on Open Collective](https://img.shields.io/badge/unity-5.6-red.svg?style=flat-square)](#sponsors)
