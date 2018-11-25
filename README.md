@@ -1,4 +1,6 @@
 ## Ellipsis
+[![Sponsors on Open Collective](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](#sponsors)
+
 Ellipsis is a 2D android game developed in Unity game engine (https://unity3d.com/). Following are some screenshots of the game.
 
 <div width="110%">
