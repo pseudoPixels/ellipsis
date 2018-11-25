@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="Assets/screenshots/thumbnail.png" width="30%"  title="Ellipsis - Menu">
+  <img src="Assets/screenshots/thumbnail.png" width="10%"  title="Ellipsis - Menu">
 </div>
 
 ## Ellipsis
