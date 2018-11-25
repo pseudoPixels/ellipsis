@@ -1,4 +1,4 @@
-<div width="110%">
+<div align='center'>
   <img src="Assets/screenshots/thumbnail.png" width="30%"  title="Ellipsis - Menu">
 </div>
 
